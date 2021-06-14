@@ -4,4 +4,4 @@ Costa Blue is a One dark Pro and Ayu based [theme](https://marketplace.visualstu
 
 ## SCREENSHOT
 
-![Screenshot](./img/Golang.png)
+<img src="img/Golang.png" width="50%">
