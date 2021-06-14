@@ -11,3 +11,7 @@ Costa Blue is a One dark Pro and Ayu based [theme](https://marketplace.visualstu
 ### JS example:
 
 <img align="center" src="img/JS.png" width="50%">
+
+### Python example:
+
+<img align="center" src="img/python.png" width="50%">
