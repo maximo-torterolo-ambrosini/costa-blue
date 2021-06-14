@@ -2,9 +2,9 @@
     "name": "costa-blue",
     "displayName": "Costa blue",
     "description": "A One dark Pro and Ayu based theme but with a little tweak",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "publisher": "MaximoTorteroloAmbrosini",
-    "repository":{
+    "repository": {
         "type": "git",
         "url": "https://github.com/maximo-torterolo-ambrosini/costa-blue"
     },
