@@ -1843,6 +1843,17 @@
         },
         {
             "scope": [
+                "storage.type.function.arrow.js",
+                "meta.arrow.js",
+                "meta.var.expr.js",
+                "source.js"
+            ],
+            "settings": {
+                "fontStyle": ""
+            }
+        },
+        {
+            "scope": [
                 "invalid",
                 "keyword.operator",
                 "constant.numeric.css",
