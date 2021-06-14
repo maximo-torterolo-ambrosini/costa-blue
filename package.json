@@ -1,0 +1,21 @@
+{
+    "name": "costa-blue",
+    "displayName": "Costa blue",
+    "description": "Costa blue theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Costa blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Costa blue-color-theme.json"
+            }
+        ]
+    }
+}
